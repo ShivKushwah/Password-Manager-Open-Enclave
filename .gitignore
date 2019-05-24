@@ -1,0 +1,11 @@
+enclave/enc.o
+enclave/helloworld_args.h
+enclave/helloworld_t.*
+enclave/helloworldenc
+enclave/helloworldenc.signed
+enclave/private.pem
+enclave/public.pem
+host/helloworld_args.h
+host/helloworld_u.*
+host/helloworldhost
+host/host.o
